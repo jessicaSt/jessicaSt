@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jessicaSt
-- 👀 I’m interested in Vuejs, PHP, React, Node
+- 👀 I’m interested in Vuejs, PHP, Node
 - 🌱 I’m currently learning React and Mobile development
 - 💞️ I’m looking to collaborate on inspiring projects
 - 📫 Reach me at jessykahst@gmail.com
