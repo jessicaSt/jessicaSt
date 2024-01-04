@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jessicaSt
-- 👀 I’m interested in Vuejs, PHP, Node
-- 🌱 I’m currently learning React and Mobile development
+- 👀 I’m interested in Vue.js, PHP, Node
+- 🌱 I’m currently focusing in Vue.js and Laravel API's REST.
 - 💞️ I’m looking to collaborate on inspiring projects
 - 📫 Reach me at jessykahst@gmail.com
 
